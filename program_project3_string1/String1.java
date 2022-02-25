@@ -1,7 +1,6 @@
 package program_project3_string1;
 import java.util.Scanner;
-import java.util.Arrays;
-import java.util.Set;
+
 
 public class String1 {
 
